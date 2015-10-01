@@ -1,5 +1,7 @@
-three.js
+three.js fork for usage in node
 ========
+
+NOTE: PLEASE DON'T USE IT IN BROWSER AS IT WILL ALMOST 100% BRAKE!
 
 #### JavaScript 3D library ####
 
